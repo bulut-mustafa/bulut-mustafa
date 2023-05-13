@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 
+- 💻 I am studying Computer Engineering at Uludag University
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
