@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 -->
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">- 💻 I am studying Computer Engineering at Uludag University</h3>
+<h3 align="center">- 💻 I am an undergraduate Computer Engineer at Uludag University</h3>
 <h3 align="center">-  I’m currently learning Web and iOS development.</h3>
 <h3 align="center">-  I’m looking for internships to leverage my knowledge.</h3>
 
