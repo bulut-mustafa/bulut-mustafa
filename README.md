@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">- 💻 I am a Computer Engineer graduate</h3>
 <h3 align="center">-  Actively working as a Front End Developer.</h3>
-<h3 align="center">-  Learning and improving myself on iOS Development.</h3>
+<h3 align="center">-  Learning and improving myself on new Front End technologies and iOS Development.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
