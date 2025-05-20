@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">- 💻 I am a Computer Engineer graduate</h3>
 <h3 align="center">- Freelancing as a Full Stack Developer</h3>
-<h3 align="center">- Check out my latest project: <a href="https://timetogo-chi.vercel.app" target="_blank">Time To Go</a></h3>
+<h3 align="center">- Check out my latest projects: <a href="https://timetogo-chi.vercel.app" target="_blank">Time To Go</a>,  <a href="https://wrytrai.vercel.app" target="_blank">Wrytrai</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
