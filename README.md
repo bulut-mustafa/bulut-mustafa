@@ -17,9 +17,3 @@
   <li><strong>Palettt</strong> - A full-featured color palette platform with generator, extraction, file conversion, and social features. <a href="https://palettt.com" target="_blank">Check it out</a></li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/bulut-mustafa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bulut-mustafa" height="30" width="40" />
-  </a>
-</p>
